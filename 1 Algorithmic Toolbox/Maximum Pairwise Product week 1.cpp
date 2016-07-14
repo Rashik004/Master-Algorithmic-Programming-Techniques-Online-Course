@@ -1,9 +1,6 @@
 #include <iostream>
 #include <vector>
 #define ll long long
-using std::vector;
-using std::cin;
-using std::cout;
 using namespace std;
 //ll MaxPairwiseProduct(const vector<int>& numbers) {
 //  ll result = 0;
