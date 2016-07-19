@@ -38,6 +38,7 @@ int main() {
     x=numbers[f];
     numbers[f]=-1;
     y=numbers[MaxOfArray(numbers)];
-    cout<<x*y;
+    ll res=(ll)x*(ll)y;
+    cout<<res<<endl;
     return 0;
 }
